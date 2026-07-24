@@ -1,7 +1,8 @@
 <h1><strong>H E L L O</strong></h1>
 <h3><strong>I'm FDKing</strong></h3>
+<h4><strong>aka FARHAN</strong></h3>
 <br>
-<a href="https://fd-king.github.io/FD-king/" target="blank">About ME</a>
+<a href="https://fd-king.github.io/Port_polio/" target="blank">About ME</a>
 <br>
 <br>
 <p aligh="right"><img src="https://github.com/neowdymium/neowdymium/blob/main/Images/image%207.png"></p>
@@ -24,7 +25,9 @@
 
 - How to contact me **freedomgamer1122@gmail.com**
 
-- Know about my experiences <a href="" target="blank">loading</a></p>
+- My phone number **<a href="tel:+8801304471965">+880 1304471965</a>**
+
+- Know about my experiences <a href="" target="blank"><strong>loading</strong></a></p>
 </div>
 <br><br>
 
