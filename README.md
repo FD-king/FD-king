@@ -25,7 +25,7 @@
 
 - How to contact me **freedomgamer1122@gmail.com**
 
-- My phone number **<a href="tel:+8801304471965">+880 1304471965</a>**
+- My phone number <a href="tel:+8801304471965">**+880 1304471965**</a>
 
 - Know about my experiences <a href="" target="blank"><strong>loading</strong></a></p>
 </div>
